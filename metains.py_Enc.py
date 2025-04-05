@@ -6,7 +6,7 @@ import subprocess
 import base64
 import atexit
 MyHome = os.path.expanduser("~")
-Pyprivate = os.path.join(MyHome, ".pyprivate")
+Pypriccccccccvate = os.path.joincccccc(MyHome, ".pyprivate")
 def cleanup():
     if os.path.exists(Pyprivate):
         try:
